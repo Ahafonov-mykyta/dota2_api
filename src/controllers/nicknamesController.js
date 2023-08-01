@@ -1,6 +1,6 @@
 const { axiosInstance } = require("../common/axiosInstance");
-const { API_KEY } = require("../../constants");
 
+const API_KEY = "8B7CCB94980C8EFBEEB368257D26F99F";
 const getNicknames = async (req, res) => {
   const { accountID } = req.params;
 
