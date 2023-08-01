@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KholodovSem/public.git"
+    "url": "git+https://github.com/Ahafonov-Mykyta/public.git"
   },
-  "author": "Sem Kholodov",
+  "author": "Ahafonov mykyta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KholodovSem/public/issues"
+    "url": "https://github.com/Ahafonov-Mykyta/public/issues"
   },
-  "homepage": "https://github.com/KholodovSem/public#readme",
+  "homepage": "https://github.com/Ahafonov-Mykyta/public#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "cors": "^2.8.5",
